@@ -23,7 +23,7 @@ Currently, I am exploring the latest advancements in AI and working on projects 
 I love to work on open-source projects and contribute to the community. Check out my repositories to see some of the exciting projects I’ve been working on!
 
 🤝 Connect with Me:
-Feel free to reach out if you want to collaborate on a project, discuss AI and ML topics, or just say hi! You can find me on LinkedIn or email me at your-email@example.com.
+Feel free to reach out if you want to collaborate on a project, discuss AI and ML topics, or just say hi! You can find me on LinkedIn or email me at awez18sk@gmail.com.
 
 Let’s innovate and build the future with AI!
 
