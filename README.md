@@ -10,6 +10,21 @@ With several years of experience in the field, I have honed my skills in various
 
 🛠️ Skills:
 
+### Languages:
+- Python, JavaScript, HTML/CSS
+
+### Tools & Technologies:
+- Git, Jupyter Notebook, React
+
+### Specializations:
+- Data Science, Web Development
+
+### GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awezsk&show_icons=true&theme=dark)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awezsk&layout=compact&theme=dark)
+
 Machine Learning
 Deep Learning
 Natural Language Processing
