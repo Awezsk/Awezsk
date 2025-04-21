@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 - **[Personal Portfolio](https://awezpersonalportfolio.netlify.app/)**  
   React-based portfolio with 3D elements built using Three.js, showcasing my dev skills.
 
-- **[NGO Website](https://awezngo.netlify.app/)**  
+- **[NGO Website](https://al-fatimasociety.netlify.app/)**  
   A responsive React website built for Al-Fatima Multipurpose Society.
 
 - **[Rentility](https://github.com/Awezsk/Rentility)**  
